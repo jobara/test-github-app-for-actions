@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/jobara/test-github-app-for-actions/compare/v0.3.0...v0.3.1) (2024-10-30)
+
+
+### Bug Fixes
+
+* merge-release on automated release ([9d40036](https://github.com/jobara/test-github-app-for-actions/commit/9d400361427013b435a7525c9577fbaddbbfb32d))
+
 ## [0.3.0](https://github.com/jobara/test-github-app-for-actions/compare/v0.2.0...v0.3.0) (2024-10-30)
 
 
