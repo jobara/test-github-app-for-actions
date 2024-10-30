@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/jobara/test-github-app-for-actions/compare/v0.2.0...v0.3.0) (2024-10-30)
+
+
+### Features
+
+* use github app for authentication ([680ec0a](https://github.com/jobara/test-github-app-for-actions/commit/680ec0a052586b39540cc2481cc63ed9dae77a30))
+
 ## [0.2.0](https://github.com/jobara/test-github-app-for-actions/compare/v0.1.0...v0.2.0) (2024-10-30)
 
 
