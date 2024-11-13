@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.2](https://github.com/jobara/test-github-app-for-actions/compare/v0.3.1...v0.3.2) (2024-11-13)
+
+
+### Bug Fixes
+
+* trigger push events after merge ([2570b4f](https://github.com/jobara/test-github-app-for-actions/commit/2570b4ff489f887fa15ce4052f35a95f32582f5a))
+
 ## [0.3.1](https://github.com/jobara/test-github-app-for-actions/compare/v0.3.0...v0.3.1) (2024-10-30)
 
 
